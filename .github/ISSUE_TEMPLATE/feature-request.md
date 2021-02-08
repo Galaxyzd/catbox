@@ -1,6 +1,6 @@
 ---
 name: Feature Request
-about: Do you have an idea how to improve catbox? Let us know!
+about: Do you have an idea on how to improve catbox? Let us know!
 title: ''
 labels: feature
 assignees: abbydiode

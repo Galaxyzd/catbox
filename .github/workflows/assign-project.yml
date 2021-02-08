@@ -1,0 +1,4 @@
+- name: Assign to Project
+  uses: srggrs/assign-one-project-github-action@1.2.0
+  with:
+    project: https://github.com/users/abbydiode/projects/1
